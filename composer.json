@@ -1,14 +1,13 @@
 {
     "name": "twjacktsai/rapiddevsys",
     "type": "project",
-    "description": "Framework for PHP 5.5+",
-    "homepage": "https://github.com/nova-framework/framework",
+    "description": "Rapid Develop for PHP 5.5+",
+    "homepage": "https://github.com/twjacktsai/rapiddevsys",
     "license": "MIT",
     "authors": [
         {
-            "name": "David Carr",
-            "email": "dave@daveismyname.com",
-            "homepage": "http://daveismyname.com",
+            "name": "Jack Tsai",
+            "email": "khjacktsai@gmail.com",
             "role": "Developer"
         }
     ],
